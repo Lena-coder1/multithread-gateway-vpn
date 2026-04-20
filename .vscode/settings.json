@@ -1,0 +1,4 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "terminal.integrated.shellArgs.windows": ["-NoExit", "-Command", "Set-Location '${workspaceFolder}'"]
+}
